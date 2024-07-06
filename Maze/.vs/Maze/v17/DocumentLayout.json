@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity_class\\games\\Maze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|d:\\unity_class\\games\\maze\\assets\\scripts\\footprinttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\footprinttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|d:\\unity_class\\games\\maze\\assets\\scripts\\particlerenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\particlerenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|D:\\unity_class\\games\\Maze\\assets\\scripts\\systemthing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systemthing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|D:\\unity_class\\games\\Maze\\assets\\scripts\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|D:\\unity_class\\games\\Maze\\assets\\scripts\\mouseip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouseip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|D:\\unity_class\\games\\Maze\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E294F-6A57-B963-05D6-83EB30201135}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticleRenew.cs",
+              "DocumentMoniker": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\ParticleRenew.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParticleRenew.cs",
+              "ToolTip": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\ParticleRenew.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParticleRenew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:42:00.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootprintTrigger.cs",
+              "DocumentMoniker": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\FootprintTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FootprintTrigger.cs",
+              "ToolTip": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\FootprintTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FootprintTrigger.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:14:18.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemThing.cs",
+              "DocumentMoniker": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\SystemThing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SystemThing.cs",
+              "ToolTip": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\SystemThing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SystemThing.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:23:46.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MouseIP.cs",
+              "DocumentMoniker": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\MouseIP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseIP.cs",
+              "ToolTip": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\MouseIP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseIP.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:06:14.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:34:56.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Button.cs",
+              "ToolTip": "D:\\unity_class\\games\\Maze\\Assets\\Scripts\\Button.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:39:31.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
