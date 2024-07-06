@@ -749,7 +749,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8daf36a3473ba1745a4dcee13d39d9af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ui_ground: {fileID: 11883395}
 --- !u!114 &963194231
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1316,6 +1315,14 @@ PrefabInstance:
       propertyPath: main_camera
       value: 
       objectReference: {fileID: 963194227}
+    - target: {fileID: 4647530027261267663, guid: eedf0e945cad1c1488a9e206ea423b65, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6572649125297676096, guid: eedf0e945cad1c1488a9e206ea423b65, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 3d005758aedc2fc4e8a7155d626e0f54, type: 2}
     - target: {fileID: 8410813482329962704, guid: eedf0e945cad1c1488a9e206ea423b65, type: 3}
       propertyPath: m_Name
       value: Player
